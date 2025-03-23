@@ -2,7 +2,7 @@
 
 # Tool Auto Blum NodeJS by HoangQUans
 
-**Tool phát triển và chia sẻ miễn phí bởi ZuyDD**
+**Tool phát triển và chia sẻ miễn phí bởis HQ**
 
 <a href="https://www.facebook.com/zuy.dd"><img src="https://raw.githubusercontent.com/zuydd/image/main/facebook.svg" alt="Facebook"></a>
 <a href="https://t.me/zuydd"><img src="https://raw.githubusercontent.com/zuydd/image/main/telegram.svg" alt="Telegram"></a>
