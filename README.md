@@ -170,6 +170,4 @@ Mỗi đóng góp của bạn sẽ giúp chúng tôi duy trì chất lượng d�
 Mãi iu 😘😘😘
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/zuydd/image/main/qr-momo.png" alt="QR Momo" height="340" />
-  <img src="https://raw.githubusercontent.com/zuydd/image/main/qr-binance.jpg" alt="QR Binance" height="340" />
 </div>
