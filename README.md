@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/zuy.dd"><img src="https://raw.githubusercontent.com/zuydd/image/main/facebook.svg" alt="Facebook"></a>
 <a href="https://t.me/zuydd"><img src="https://raw.githubusercontent.com/zuydd/image/main/telegram.svg" alt="Telegram"></a>
 
-> [!WARNING]
+> [!WARNINGs]
 > Mọi hành vi buôn bán tool dưới bất cứ hình thức nào đều không được cho phép!
 
 ## 🛠️ Hướng dẫn cài đặt
