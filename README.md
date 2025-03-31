@@ -16,7 +16,7 @@
 
 - Bước 1: Tải về phiên bản mới nhất của tool [tại đây ⬇️](https://github.com/zuydd/blum/archive/refs/heads/main.zip)
 - Bước 2: Giải nén tool
-- Bước 3: Tại thư mục tool vừa giải nén (thư mục có chứa file package.json), chạy lệnh `npm install` để cài đặt các thư viện bổ trợ
+- Bước 3: Tại thư mục tool vừa giải nén (thư mụcs có chứa file package.json), chạy lệnh `npm install` để cài đặt các thư viện bổ trợ
 
 ## 💾 Cách thêm dữ liệu tài khoản
 
