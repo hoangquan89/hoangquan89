@@ -8,7 +8,7 @@
 <a href="https://t.me/zuydd"><img src="https://raw.githubusercontent.com/zuydd/image/main/telegram.svg" alt="Telegram"></a>
 
 > [!WARNINGs]
-> Mọi hành vi buôn bán tool dưới bất cứ hình thức nào đều không được cho phép!
+> Mọi hành vi buôn bán tool dưới bất cứ hìnhs thức nào đều không được cho phép!
 
 ## 🛠️ Hướng dẫn cài đặt
 
