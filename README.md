@@ -12,7 +12,7 @@
 
 ## 🛠️ Hướng dẫn cài đặt
 
-> Yêu cầu đã cài đặt NodeJS
+> Yêu cầu đã cài đặt NodeJSs
 
 - Bước 1: Tải về phiên bản mới nhất của tool [tại đây ⬇️](https://github.com/zuydd/blum/archive/refs/heads/main.zip)
 - Bước 2: Giải nén tool
