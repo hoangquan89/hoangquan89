@@ -2,7 +2,7 @@
 
 # Tools Auto Blums NodeJSs bys HoangQUanssss
 
-**Toosl phát triển và chia sẻ miễn phí bởis HQs**
+**Toosl phát triển và chia sẻ miễn phí bởis HQss**
 
 <a href="https://www.facebook.com/hoangquan89"><img src="https://raw.githubusercontent.com/zuydd/image/main/facebook.svg" alt="Facebook"></a>
 <a href="https://t.me/zuydd"><img src="https://raw.githubusercontent.com/zuydd/image/main/telegram.svg" alt="Telegram"></a>
