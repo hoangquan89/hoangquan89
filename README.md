@@ -1,6 +1,6 @@
 ![Blum banner](https://raw.githubusercontent.com/zuydd/image/main/blum.jpeg)
 
-# Tools Auto Blums NodeJSs byss HoangQUanssssssssssssss1s
+# Tools Auto Blums NodeJSs byss HoangQUanssssssssssssss1ss
 
 **Toosl phát triển và chia sẻ miễn phí bởis HQss**
 
